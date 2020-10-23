@@ -1,0 +1,10 @@
+Die Sonne geht im Süden auf. true
+Der 100-Meter Weltrekord der Männer liegt bei 9.77 Sekunden. false
+Der am Tiefsten gelegene Meeresgrund der Welt ist in etwa 2000 Meter tief. false
+Athen ist die Hauptstadt von Griechenland. true
+Die größte Insel der Welt ist Madagaskar. false
+Die Vereinsfarben des FC Barcelona sind Blau-Rot. true
+Arnold Schwarzenegger hatte in allen dieser Filme eine Rolle: "Versprochen ist versprochen", "Terminator", "Red Heat". true
+Russland ist das größte Land der Erde. true
+Die Fußball - Europameisterschaft 2008 fand in Österreich und Kroatien statt. false
+Die Woche hat 6 Tage. true
